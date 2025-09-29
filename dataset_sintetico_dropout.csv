@@ -1,0 +1,501 @@
+Edad,Genero,LugarOrigen,PromedioColegio,AdmissionTest,PrimerSemestre,NivelSocioeconomico,Beca,Prestamo,AyudaFinanciera,Dropout
+20.0,,New Jacob,4.52,78.0,0.0,Alto,1.0,,0.0,Sí
+25.0,M,North Kelly,3.52,61.0,2.16,Alto,1.0,1.0,0.0,No
+17.0,F,West Jillianfort,4.29,67.0,4.47,Medio,1.0,0.0,0.0,No
+24.0,M,West Timothy,4.78,85.0,3.29,Medio,0.0,1.0,1.0,No
+20.0,F,Trevorton,4.85,92.0,3.71,Alto,0.0,0.0,1.0,Sí
+19.0,M,Thomasfurt,4.93,,3.07,,1.0,1.0,1.0,No
+22.0,M,Port Virginiastad,4.55,89.0,2.87,Medio,1.0,0.0,0.0,Sí
+22.0,F,Port Johnhaven,3.26,62.0,,Bajo,1.0,0.0,0.0,No
+20.0,M,West Victor,4.87,80.0,4.04,Alto,1.0,0.0,1.0,Sí
+24.0,F,Tinabury,3.68,89.0,4.49,Alto,0.0,0.0,0.0,No
+19.0,M,East Cynthiaview,3.01,87.0,2.26,Medio,1.0,1.0,0.0,No
+25.0,F,,3.15,80.0,3.58,Medio,,1.0,1.0,No
+25.0,F,Douglasville,3.51,72.0,3.83,Alto,1.0,0.0,0.0,No
+,F,South Christophermouth,3.86,55.0,,Medio,0.0,0.0,1.0,No
+20.0,F,North Adam,3.31,50.0,4.51,Bajo,1.0,0.0,0.0,Sí
+19.0,M,,4.61,66.0,4.31,Alto,1.0,1.0,0.0,No
+18.0,F,,3.38,97.0,4.69,Bajo,1.0,0.0,0.0,Sí
+17.0,M,Joseside,4.58,59.0,4.31,Alto,0.0,1.0,1.0,Sí
+22.0,F,North Thomas,4.3,63.0,2.72,Alto,0.0,0.0,0.0,Sí
+25.0,M,,3.09,63.0,4.39,Alto,1.0,0.0,1.0,No
+19.0,F,South Teresa,3.86,70.0,2.44,Medio,0.0,1.0,1.0,No
+19.0,M,Lake Stephanie,,65.0,3.51,Alto,1.0,0.0,0.0,No
+21.0,F,South Ann,4.16,72.0,2.32,Bajo,1.0,0.0,0.0,No
+18.0,F,North Laurastad,3.84,69.0,3.39,Bajo,0.0,1.0,1.0,No
+25.0,M,Susanhaven,4.26,54.0,3.77,Medio,0.0,1.0,0.0,No
+18.0,F,North Chad,3.72,57.0,2.15,Medio,1.0,0.0,0.0,No
+18.0,M,Jacksonberg,4.35,92.0,2.13,Alto,1.0,0.0,1.0,Sí
+25.0,M,New Sarah,3.2,98.0,0.0,Bajo,1.0,1.0,0.0,No
+18.0,M,,4.54,68.0,0.0,Alto,0.0,1.0,1.0,No
+20.0,M,Bernardfurt,3.67,93.0,2.06,Bajo,1.0,0.0,0.0,No
+24.0,M,Smithchester,3.88,90.0,2.58,Bajo,0.0,0.0,0.0,No
+18.0,M,Sandrahaven,,91.0,2.11,Medio,1.0,1.0,0.0,Sí
+19.0,M,Crystalchester,3.45,58.0,2.8,Bajo,0.0,1.0,1.0,No
+23.0,F,Lake Troy,3.65,78.0,4.59,Alto,1.0,1.0,0.0,No
+19.0,F,West Normanburgh,4.09,,2.32,Alto,1.0,1.0,0.0,No
+22.0,F,Kruegershire,4.58,56.0,3.55,Medio,1.0,0.0,0.0,Sí
+25.0,M,Michellestad,4.91,85.0,2.09,Alto,0.0,1.0,0.0,No
+21.0,,North Michael,,62.0,3.73,Bajo,1.0,1.0,1.0,No
+23.0,F,Lake Elizabethfort,4.14,96.0,3.04,,0.0,1.0,0.0,Sí
+19.0,M,Ericabury,3.08,54.0,2.67,Alto,1.0,0.0,1.0,No
+24.0,,Claytown,3.78,81.0,4.72,Medio,1.0,0.0,0.0,No
+24.0,F,Port Roy,4.81,99.0,0.0,Medio,,1.0,1.0,No
+23.0,F,Alyssaland,4.22,69.0,4.81,Alto,1.0,1.0,0.0,Sí
+23.0,F,Jessicastad,3.86,85.0,4.84,Bajo,,0.0,0.0,No
+23.0,F,Gregoryside,4.72,85.0,3.54,Bajo,0.0,0.0,0.0,Sí
+18.0,F,East Vincent,4.67,68.0,2.87,Medio,0.0,,0.0,No
+24.0,F,Gillchester,4.37,90.0,4.8,Alto,1.0,1.0,0.0,No
+21.0,M,Christinefurt,4.53,52.0,3.18,Medio,1.0,1.0,0.0,Sí
+21.0,M,East Nicholas,4.09,84.0,4.87,Medio,1.0,1.0,1.0,No
+17.0,F,Stephenville,3.98,53.0,4.9,Alto,,,0.0,No
+17.0,F,Janetland,3.66,95.0,4.5,Medio,1.0,1.0,0.0,Sí
+20.0,M,Mclaughlinchester,3.73,98.0,3.05,Bajo,1.0,1.0,,No
+23.0,F,New Dennis,4.69,51.0,2.08,Medio,1.0,1.0,1.0,No
+20.0,M,Johnville,3.13,51.0,4.41,Bajo,1.0,0.0,1.0,No
+17.0,M,Pagehaven,4.82,59.0,2.29,Alto,0.0,1.0,1.0,No
+23.0,F,Lake Vickichester,4.91,69.0,2.69,Alto,0.0,1.0,0.0,No
+18.0,M,North Beverly,6.0,70.0,4.36,Medio,1.0,1.0,,No
+17.0,F,Mendozashire,3.62,93.0,4.84,Medio,1.0,1.0,1.0,Sí
+24.0,M,Amandaberg,3.62,63.0,2.14,Medio,0.0,0.0,0.0,Sí
+24.0,M,Christopherside,4.96,94.0,4.18,Alto,1.0,1.0,1.0,Sí
+22.0,F,Elizabethport,3.4,83.0,4.81,Alto,0.0,1.0,1.0,No
+22.0,M,Antonioberg,3.65,51.0,2.44,Bajo,0.0,0.0,1.0,No
+23.0,M,West Andrewland,4.55,93.0,5.0,Bajo,1.0,1.0,1.0,Sí
+20.0,M,Port David,4.96,75.0,3.85,Alto,0.0,0.0,1.0,No
+25.0,F,Lawsonfort,4.1,,4.46,Alto,0.0,0.0,1.0,Sí
+22.0,M,East Steve,4.74,61.0,4.19,Medio,0.0,1.0,1.0,No
+23.0,F,Amandastad,4.56,64.0,2.51,Bajo,1.0,,1.0,Sí
+19.0,M,Debrabury,4.0,72.0,2.75,Medio,0.0,1.0,1.0,No
+19.0,F,East Stevenmouth,4.4,89.0,3.37,Bajo,0.0,1.0,1.0,No
+24.0,F,North Bruceton,3.87,75.0,4.43,Medio,1.0,0.0,1.0,No
+19.0,F,Robinton,3.12,52.0,2.16,Bajo,1.0,0.0,1.0,Sí
+,M,Johnsonburgh,3.32,52.0,3.57,Alto,1.0,0.0,0.0,Sí
+17.0,M,Lake Kellyborough,3.01,78.0,3.49,Bajo,1.0,1.0,0.0,No
+23.0,M,Warnershire,3.44,94.0,3.75,Alto,1.0,1.0,0.0,No
+20.0,F,South Clifford,4.08,95.0,,Alto,1.0,1.0,1.0,No
+17.0,F,Perezport,4.27,74.0,2.81,Medio,0.0,1.0,0.0,No
+20.0,M,Kellyhaven,3.1,86.0,4.2,,,1.0,0.0,No
+23.0,F,West Phillip,3.51,98.0,3.63,Medio,0.0,1.0,1.0,No
+18.0,M,New Debrastad,3.05,96.0,4.59,Alto,1.0,0.0,0.0,Sí
+21.0,M,East James,4.57,54.0,2.08,Alto,1.0,1.0,1.0,No
+17.0,M,Brittanyville,3.28,88.0,2.61,Medio,0.0,0.0,1.0,Sí
+22.0,M,Bestport,4.78,83.0,2.27,Medio,0.0,0.0,0.0,Sí
+19.0,M,New Julia,3.34,61.0,3.58,Bajo,0.0,1.0,0.0,No
+20.0,M,Port Josephmouth,4.12,97.0,2.06,Medio,0.0,1.0,0.0,Sí
+20.0,F,Meganland,4.89,70.0,4.75,Alto,0.0,0.0,0.0,No
+17.0,F,,3.13,96.0,4.35,Alto,0.0,1.0,0.0,No
+20.0,F,South Edward,3.42,98.0,4.54,Medio,0.0,0.0,1.0,No
+25.0,F,North Rebecca,4.7,57.0,2.74,Medio,0.0,1.0,1.0,No
+18.0,M,West Melissa,3.23,60.0,2.0,Medio,0.0,0.0,1.0,No
+18.0,F,West Robert,4.96,55.0,3.68,Bajo,0.0,0.0,1.0,Sí
+,F,West Brandi,4.97,75.0,2.27,Bajo,0.0,1.0,1.0,No
+24.0,M,West Nicolebury,3.01,56.0,4.68,Bajo,0.0,1.0,0.0,No
+,M,Laurafurt,3.85,82.0,2.82,Alto,0.0,0.0,1.0,No
+25.0,M,East Stephen,3.52,58.0,3.99,Medio,1.0,0.0,1.0,No
+25.0,F,Ginafort,4.88,,4.61,Medio,0.0,1.0,1.0,No
+21.0,F,East Kennethberg,,68.0,3.17,,0.0,1.0,0.0,No
+18.0,M,Rogerstown,3.5,62.0,2.25,Medio,1.0,,0.0,Sí
+22.0,M,Port Nancyshire,3.11,70.0,2.79,Medio,0.0,0.0,1.0,No
+18.0,M,Jamesmouth,3.63,80.0,3.39,Alto,0.0,0.0,1.0,Sí
+21.0,M,South Michaelstad,3.19,87.0,3.9,Medio,1.0,0.0,1.0,No
+21.0,M,South Rebeccaborough,4.48,67.0,4.47,Bajo,1.0,1.0,1.0,Sí
+22.0,M,Sarahstad,3.16,99.0,3.45,Alto,1.0,1.0,0.0,Sí
+23.0,M,South Aliciafort,3.27,55.0,3.26,Medio,0.0,0.0,0.0,No
+19.0,F,North Michaelborough,3.9,54.0,4.71,Medio,1.0,0.0,1.0,No
+20.0,F,Port Brooke,4.32,82.0,2.5,Alto,1.0,0.0,0.0,No
+,F,Xavierfort,4.3,98.0,4.41,Bajo,0.0,0.0,0.0,No
+24.0,F,East Laura,3.24,97.0,3.22,Medio,1.0,0.0,1.0,Sí
+21.0,F,Port Brandon,4.52,85.0,2.53,,1.0,0.0,0.0,No
+23.0,M,,3.69,83.0,2.68,Medio,1.0,0.0,,No
+,M,Scottport,3.39,84.0,4.99,Medio,0.0,1.0,0.0,No
+17.0,F,New Amandaland,3.3,67.0,4.56,Bajo,0.0,1.0,1.0,No
+25.0,F,East Marc,3.09,67.0,4.74,Medio,,1.0,1.0,No
+20.0,M,West Eric,3.56,53.0,4.85,Bajo,1.0,1.0,1.0,Sí
+23.0,F,Brownport,4.91,93.0,4.25,Alto,0.0,0.0,0.0,No
+20.0,F,North David,3.85,86.0,4.5,Alto,1.0,1.0,0.0,Sí
+19.0,F,East Ericaville,4.08,91.0,3.85,Alto,1.0,1.0,0.0,No
+23.0,M,New Jeffreychester,3.35,56.0,2.24,Alto,1.0,1.0,0.0,No
+17.0,M,Loriland,3.48,94.0,2.17,Alto,,1.0,1.0,No
+17.0,F,Port Katherinehaven,4.22,58.0,3.35,Bajo,0.0,0.0,1.0,No
+19.0,F,Shannonberg,4.71,96.0,3.19,Alto,1.0,1.0,0.0,No
+22.0,F,,4.76,86.0,4.78,Bajo,1.0,1.0,1.0,Sí
+25.0,M,New Nancy,,68.0,2.51,Bajo,0.0,0.0,0.0,No
+19.0,M,North Shannonville,3.18,58.0,3.41,Alto,0.0,0.0,1.0,No
+18.0,M,Markberg,3.63,60.0,4.69,Bajo,1.0,1.0,0.0,No
+20.0,M,Shellyburgh,4.57,56.0,3.63,Bajo,1.0,0.0,0.0,No
+24.0,F,Coxtown,4.02,81.0,4.1,Medio,0.0,1.0,1.0,No
+21.0,F,Aaronview,4.82,71.0,3.98,Alto,0.0,1.0,1.0,Sí
+25.0,F,Carsonview,4.87,88.0,4.72,Alto,1.0,0.0,1.0,No
+24.0,F,West Francisco,3.76,79.0,2.65,Alto,1.0,1.0,0.0,No
+21.0,F,North Sergioshire,3.29,66.0,4.79,Medio,0.0,0.0,1.0,No
+20.0,M,West Brianfort,4.87,65.0,2.49,Medio,1.0,1.0,1.0,No
+22.0,F,Marciaton,4.28,55.0,2.33,Medio,1.0,1.0,0.0,No
+19.0,F,East Jesse,3.56,71.0,3.91,Bajo,0.0,0.0,1.0,Sí
+23.0,M,Port Christineside,4.54,95.0,4.64,Medio,0.0,1.0,0.0,No
+17.0,M,Mindymouth,4.9,76.0,2.38,Medio,0.0,0.0,1.0,No
+22.0,F,Zunigamouth,4.41,57.0,4.26,Alto,0.0,1.0,0.0,No
+23.0,F,North Fredstad,3.88,56.0,4.57,Alto,0.0,,1.0,No
+24.0,M,North Erikburgh,3.07,92.0,4.25,Medio,0.0,0.0,1.0,No
+18.0,F,Bryanside,3.9,66.0,3.61,Alto,0.0,1.0,1.0,No
+17.0,F,Tylermouth,3.93,,4.68,Alto,0.0,0.0,1.0,Sí
+19.0,F,Port Tristan,4.03,82.0,2.12,Medio,1.0,0.0,0.0,No
+23.0,M,Harrisonborough,4.86,90.0,3.11,Alto,0.0,0.0,1.0,No
+25.0,F,Thomasmouth,4.46,,2.6,Bajo,1.0,0.0,1.0,No
+17.0,F,West Michael,3.63,94.0,2.97,Medio,1.0,1.0,1.0,No
+24.0,,West Dariusfurt,3.3,51.0,2.51,Alto,0.0,1.0,0.0,No
+24.0,M,Jensenland,3.06,86.0,4.6,Medio,1.0,1.0,1.0,No
+,F,West John,3.4,79.0,2.67,Medio,0.0,0.0,1.0,No
+23.0,M,West Vickihaven,3.95,94.0,2.74,Bajo,0.0,0.0,0.0,Sí
+18.0,F,Port Maryburgh,3.32,73.0,4.08,Alto,0.0,0.0,0.0,No
+21.0,M,Mcphersonborough,4.41,89.0,3.07,Medio,0.0,1.0,1.0,Sí
+23.0,M,,3.69,88.0,3.61,Medio,1.0,1.0,1.0,No
+24.0,M,,3.78,67.0,2.22,Bajo,0.0,1.0,1.0,No
+24.0,F,,4.67,55.0,3.4,Bajo,0.0,1.0,0.0,Sí
+19.0,F,South Wendytown,4.24,59.0,4.89,Medio,0.0,1.0,1.0,Sí
+20.0,F,Port Kristenborough,6.0,97.0,2.86,Medio,0.0,1.0,0.0,Sí
+18.0,M,Megantown,3.53,54.0,3.67,Bajo,0.0,0.0,0.0,Sí
+18.0,F,West Brandon,4.91,72.0,3.73,Bajo,1.0,,0.0,No
+22.0,F,Theresatown,3.69,,4.11,Medio,1.0,0.0,0.0,No
+17.0,F,East Jaredborough,4.13,68.0,2.04,Medio,1.0,1.0,0.0,No
+17.0,F,New Sherryfurt,,,3.71,Medio,1.0,0.0,0.0,No
+17.0,F,Markville,4.33,67.0,2.02,Bajo,0.0,,0.0,Sí
+21.0,F,North Adam,3.38,75.0,4.93,Alto,1.0,1.0,0.0,No
+17.0,M,Lake Amanda,4.19,73.0,2.13,Alto,0.0,1.0,0.0,Sí
+24.0,M,Nataliemouth,4.47,66.0,4.17,Alto,0.0,0.0,1.0,No
+20.0,M,Port Ashleyfurt,3.55,,3.38,Medio,1.0,0.0,1.0,Sí
+18.0,F,North Erica,3.92,80.0,3.51,Alto,0.0,1.0,1.0,No
+24.0,M,Warrenborough,4.17,53.0,4.61,Alto,0.0,1.0,0.0,No
+17.0,F,East Shelly,4.4,76.0,2.1,Medio,0.0,0.0,1.0,No
+25.0,M,North Perryberg,3.36,75.0,2.47,Medio,0.0,1.0,0.0,No
+19.0,F,Walterview,,85.0,3.39,Medio,0.0,0.0,1.0,No
+24.0,M,Lake Dylan,3.2,97.0,,Bajo,1.0,0.0,,Sí
+17.0,F,New Natalieburgh,3.37,58.0,2.74,,1.0,1.0,1.0,No
+23.0,,Rogersside,3.52,70.0,4.88,Medio,1.0,0.0,0.0,No
+25.0,F,Paulland,4.05,81.0,2.31,Alto,,0.0,0.0,No
+23.0,F,Stacyburgh,4.51,60.0,4.21,Bajo,1.0,0.0,1.0,No
+22.0,F,Petersenshire,4.74,91.0,3.74,Bajo,0.0,1.0,,No
+17.0,M,South Andrew,4.01,69.0,2.84,Bajo,0.0,1.0,0.0,No
+18.0,M,North Michael,4.66,69.0,3.87,Medio,1.0,0.0,1.0,No
+24.0,F,,4.97,70.0,2.63,Bajo,0.0,1.0,0.0,No
+24.0,F,Lake Sydneyport,3.05,50.0,4.75,Alto,1.0,0.0,1.0,No
+17.0,M,Vasquezville,3.67,86.0,2.85,Bajo,0.0,0.0,0.0,No
+18.0,M,Lake Mary,4.78,65.0,4.13,Alto,1.0,0.0,0.0,Sí
+17.0,M,Rogersshire,3.76,96.0,,Alto,0.0,0.0,0.0,Sí
+21.0,M,East Sandrafort,3.69,68.0,3.66,Medio,0.0,1.0,1.0,No
+,M,North Margaretton,3.45,68.0,4.74,Alto,0.0,0.0,1.0,No
+19.0,F,New Glendaborough,4.88,67.0,3.66,Medio,,0.0,0.0,No
+22.0,,West Timothyburgh,3.38,65.0,3.22,Medio,1.0,1.0,0.0,Sí
+17.0,F,Kennethburgh,3.35,56.0,3.34,Bajo,1.0,1.0,1.0,No
+24.0,M,South Michelle,4.06,82.0,3.12,,0.0,1.0,0.0,No
+24.0,F,Port Geoffreyfurt,3.68,74.0,3.66,Bajo,1.0,1.0,0.0,Sí
+25.0,F,Amytown,3.83,76.0,2.79,Bajo,0.0,0.0,0.0,Sí
+23.0,F,Carolineview,5.0,98.0,2.7,Medio,0.0,1.0,0.0,Sí
+21.0,M,Erikview,,63.0,4.59,Medio,1.0,0.0,1.0,Sí
+,F,,,75.0,3.9,Bajo,0.0,1.0,1.0,No
+,F,Kellystad,4.1,76.0,4.11,Medio,1.0,0.0,0.0,No
+22.0,M,Bridgetview,4.42,60.0,4.16,Bajo,0.0,1.0,0.0,Sí
+24.0,F,Jasonfurt,3.77,62.0,,Medio,0.0,1.0,1.0,No
+24.0,M,West Chelsea,3.95,74.0,3.01,Alto,1.0,1.0,1.0,Sí
+,M,Port Jillstad,3.4,89.0,3.22,Alto,1.0,0.0,0.0,No
+18.0,M,Espinozachester,3.89,61.0,4.16,Bajo,0.0,0.0,1.0,No
+23.0,M,North Alexander,4.07,79.0,4.54,Bajo,1.0,0.0,0.0,No
+23.0,F,South Keith,4.51,52.0,3.5,Bajo,1.0,0.0,0.0,Sí
+17.0,F,Thomasmouth,4.09,60.0,4.14,Bajo,1.0,1.0,1.0,No
+19.0,F,Port Rubenside,4.68,81.0,2.1,Alto,0.0,0.0,0.0,No
+23.0,F,Lake David,3.57,97.0,3.95,Bajo,0.0,1.0,1.0,Sí
+22.0,F,Ericbury,4.03,53.0,,Alto,1.0,0.0,0.0,No
+24.0,M,Charleshaven,3.72,88.0,3.71,Alto,0.0,1.0,0.0,No
+22.0,F,Robinsonfort,3.69,89.0,2.2,Bajo,1.0,1.0,1.0,No
+18.0,M,South Karenton,,92.0,4.6,Medio,0.0,0.0,0.0,No
+25.0,F,Fryeberg,4.65,79.0,4.02,Bajo,0.0,0.0,0.0,No
+20.0,F,Benjaminmouth,4.32,62.0,4.97,Bajo,0.0,0.0,1.0,No
+25.0,M,West Angelaberg,3.02,69.0,3.67,,1.0,0.0,1.0,Sí
+20.0,M,North Jonathon,3.96,55.0,3.99,Bajo,0.0,0.0,0.0,Sí
+17.0,M,Port Suzannechester,3.56,98.0,3.99,Bajo,0.0,,0.0,No
+23.0,M,Stewartview,3.04,73.0,4.15,Bajo,1.0,1.0,1.0,No
+23.0,F,,,78.0,4.59,Alto,1.0,0.0,1.0,No
+23.0,M,Lake Cassidy,4.78,69.0,2.12,Bajo,0.0,1.0,0.0,No
+20.0,F,Velezstad,4.34,62.0,,Alto,1.0,0.0,1.0,No
+23.0,M,East Joshuashire,3.12,56.0,3.67,Medio,1.0,0.0,0.0,Sí
+17.0,M,West Timothyport,3.76,71.0,3.79,,0.0,1.0,1.0,No
+25.0,M,Sarahberg,3.62,77.0,4.85,Alto,1.0,1.0,0.0,Sí
+25.0,F,Maryfort,3.82,63.0,,Medio,0.0,1.0,1.0,Sí
+,M,Deanberg,3.23,65.0,2.57,Bajo,1.0,1.0,0.0,No
+17.0,F,East Marvinfort,4.8,99.0,3.6,Bajo,0.0,0.0,0.0,Sí
+24.0,M,North Dawnside,4.84,70.0,3.12,Medio,,0.0,1.0,Sí
+22.0,M,Christophermouth,4.12,83.0,4.66,Medio,1.0,1.0,1.0,No
+24.0,F,,3.95,70.0,3.74,Medio,1.0,,,No
+19.0,M,Lake Cynthiaview,6.0,56.0,3.15,Medio,1.0,0.0,1.0,No
+21.0,M,West Brittanyport,4.7,79.0,2.51,Medio,0.0,0.0,1.0,Sí
+22.0,F,Lake Kevinburgh,4.71,53.0,,Alto,1.0,0.0,1.0,No
+,M,Dominiquebury,4.23,,3.27,Medio,,0.0,1.0,No
+19.0,M,Tylerstad,3.72,91.0,,Bajo,0.0,0.0,,Sí
+23.0,F,Myersstad,4.14,96.0,2.89,Medio,0.0,0.0,1.0,Sí
+17.0,M,Lake Cherylland,4.27,83.0,4.41,Medio,0.0,1.0,,No
+21.0,M,North Maria,4.45,62.0,4.99,Alto,0.0,1.0,0.0,Sí
+20.0,M,Samuelberg,4.99,69.0,2.2,Alto,1.0,1.0,1.0,Sí
+24.0,F,Port Christine,3.17,77.0,3.99,Alto,1.0,1.0,1.0,Sí
+20.0,M,South Annberg,4.71,50.0,4.64,Medio,0.0,0.0,0.0,No
+24.0,M,Taraberg,3.12,52.0,,Bajo,1.0,1.0,1.0,Sí
+24.0,F,Ramirezmouth,4.33,53.0,2.51,Bajo,0.0,0.0,0.0,No
+21.0,M,Claytonbury,4.23,84.0,2.77,Bajo,1.0,0.0,1.0,No
+19.0,F,West Jenniferport,3.2,51.0,2.61,Bajo,0.0,1.0,1.0,Sí
+18.0,F,New Sophia,4.61,75.0,4.19,Bajo,0.0,0.0,0.0,No
+24.0,M,North Theresaville,4.47,67.0,2.96,Alto,0.0,,1.0,No
+19.0,F,Lake Alexmouth,4.93,77.0,4.37,Medio,0.0,0.0,,Sí
+25.0,M,Moodyview,4.24,54.0,2.84,Bajo,1.0,0.0,1.0,No
+25.0,M,Alexanderburgh,3.42,70.0,3.25,Medio,1.0,1.0,0.0,No
+20.0,M,New Elizabeth,6.0,79.0,2.95,Medio,1.0,0.0,0.0,No
+18.0,M,Lake Elizabeth,4.01,89.0,2.33,Medio,1.0,1.0,1.0,No
+22.0,M,East Bradley,4.6,72.0,3.99,Alto,0.0,1.0,1.0,No
+25.0,F,Danielmouth,4.0,75.0,4.82,Bajo,1.0,0.0,0.0,No
+17.0,,Ellisbury,4.86,76.0,2.82,Medio,0.0,0.0,0.0,No
+24.0,F,Maldonadomouth,4.72,92.0,3.36,Alto,0.0,1.0,1.0,No
+20.0,M,,4.68,91.0,3.7,Bajo,0.0,1.0,1.0,No
+17.0,M,East Kyleton,3.16,75.0,4.48,Bajo,0.0,0.0,1.0,Sí
+17.0,M,Aliburgh,,97.0,2.76,Alto,1.0,0.0,0.0,No
+25.0,M,Jennifershire,,52.0,,Alto,1.0,1.0,0.0,Sí
+19.0,,Port Colin,3.76,72.0,4.74,Medio,1.0,1.0,1.0,Sí
+24.0,M,,3.54,78.0,2.2,Medio,1.0,0.0,1.0,No
+24.0,F,North Sherri,4.52,60.0,3.57,Bajo,0.0,0.0,0.0,No
+19.0,F,New Lisa,3.46,70.0,3.83,Medio,0.0,1.0,0.0,Sí
+23.0,,East Sheryl,3.61,70.0,2.83,Alto,1.0,0.0,,No
+18.0,F,Masonshire,4.08,,2.08,Medio,0.0,0.0,0.0,No
+22.0,F,Carterside,3.75,72.0,3.47,Bajo,0.0,0.0,1.0,No
+24.0,M,Port Coleville,4.63,87.0,4.62,Alto,1.0,0.0,0.0,No
+21.0,,Port Isabelport,4.77,76.0,3.3,Alto,0.0,0.0,1.0,No
+24.0,F,Jessicamouth,3.74,78.0,4.74,Medio,1.0,1.0,0.0,No
+24.0,F,South Tiffany,4.77,52.0,2.36,Medio,0.0,0.0,,No
+,M,Lake Karen,4.46,82.0,3.98,Alto,1.0,1.0,0.0,No
+22.0,M,North Derektown,4.43,88.0,4.49,Bajo,0.0,1.0,0.0,No
+24.0,F,Harrisborough,3.36,68.0,2.54,Medio,1.0,1.0,1.0,No
+22.0,F,West Markfurt,3.78,50.0,2.73,Bajo,1.0,1.0,1.0,Sí
+,F,Marshallview,4.78,,,Medio,,0.0,0.0,No
+18.0,F,Moorestad,3.93,85.0,2.72,Bajo,0.0,1.0,0.0,No
+23.0,,South Cynthiaport,4.39,52.0,4.67,Alto,0.0,0.0,0.0,Sí
+25.0,F,North Stephenport,3.7,79.0,2.25,Alto,0.0,1.0,,No
+17.0,F,North Craig,3.25,80.0,2.95,Alto,0.0,1.0,0.0,No
+23.0,,,3.14,77.0,3.94,Bajo,1.0,1.0,0.0,No
+18.0,F,Victoriaberg,3.58,70.0,2.18,Medio,0.0,0.0,1.0,Sí
+20.0,,Jeffreyside,4.02,,3.48,Bajo,1.0,0.0,0.0,No
+25.0,M,West Nicole,4.24,56.0,2.88,Bajo,1.0,0.0,0.0,No
+20.0,F,Kruegerton,3.46,95.0,3.78,Bajo,1.0,,0.0,No
+20.0,F,West Stephanie,3.75,62.0,2.21,Alto,1.0,0.0,1.0,No
+23.0,M,Bullocktown,3.55,89.0,2.08,Bajo,1.0,0.0,,No
+17.0,F,Suzanneborough,4.66,75.0,4.35,Bajo,,0.0,0.0,No
+,F,East Kathytown,4.52,56.0,3.98,Bajo,0.0,0.0,1.0,No
+24.0,F,Matthewmouth,4.82,99.0,3.4,Alto,1.0,1.0,1.0,No
+24.0,M,New Scottfurt,3.43,84.0,2.84,Alto,0.0,1.0,0.0,No
+20.0,M,Medinabury,3.6,96.0,2.04,Alto,0.0,0.0,0.0,No
+25.0,F,Cantumouth,4.66,52.0,2.21,Bajo,1.0,0.0,0.0,No
+24.0,M,Gordonside,3.29,68.0,2.23,Bajo,1.0,0.0,0.0,No
+20.0,M,Lucerochester,3.57,56.0,2.76,Alto,0.0,0.0,0.0,No
+22.0,M,East Joseph,6.0,87.0,4.51,Bajo,1.0,1.0,0.0,No
+22.0,F,Nelsontown,3.1,67.0,2.75,Alto,1.0,0.0,1.0,No
+19.0,F,Stewartfort,4.8,55.0,4.47,Alto,1.0,,1.0,Sí
+25.0,F,South Sydney,3.26,59.0,2.12,Medio,0.0,1.0,,No
+18.0,F,North Savannah,4.41,99.0,,Bajo,1.0,1.0,0.0,No
+18.0,M,South George,4.1,82.0,4.12,Medio,0.0,1.0,0.0,No
+23.0,M,East Cynthialand,4.94,,2.42,,1.0,1.0,1.0,No
+18.0,M,Ellisbury,3.17,68.0,4.74,Medio,1.0,1.0,,Sí
+17.0,F,Ericksonchester,3.35,97.0,2.86,Alto,0.0,1.0,0.0,No
+23.0,F,Stephenland,3.43,58.0,4.55,Alto,0.0,1.0,0.0,No
+18.0,F,North Leemouth,3.01,88.0,3.02,Alto,0.0,1.0,1.0,Sí
+17.0,M,Port Brian,,72.0,3.96,Bajo,0.0,0.0,0.0,No
+25.0,M,New Jamesside,,82.0,4.5,Bajo,0.0,0.0,0.0,Sí
+25.0,M,Chadmouth,3.68,84.0,3.42,Bajo,0.0,1.0,0.0,No
+25.0,F,Traceyfort,4.08,59.0,4.99,Alto,1.0,0.0,0.0,No
+17.0,M,East Kylefort,4.01,81.0,4.5,Medio,1.0,0.0,,No
+22.0,,Hullport,3.7,95.0,2.23,Alto,0.0,1.0,1.0,Sí
+,M,,4.27,67.0,3.73,Alto,1.0,1.0,1.0,Sí
+20.0,F,New Kathy,3.34,91.0,3.09,Bajo,0.0,0.0,1.0,No
+22.0,F,Roseburgh,3.56,79.0,2.39,Alto,0.0,1.0,1.0,No
+21.0,F,East Victorborough,3.06,78.0,4.52,Alto,0.0,0.0,1.0,Sí
+19.0,,Lake Markstad,3.47,52.0,4.1,Bajo,0.0,1.0,1.0,No
+21.0,F,South Janetmouth,3.33,96.0,3.48,Alto,0.0,0.0,0.0,No
+24.0,F,Markview,4.45,89.0,2.35,Bajo,1.0,1.0,0.0,No
+19.0,M,North Kathryn,6.0,80.0,2.69,Medio,0.0,0.0,0.0,No
+18.0,M,Josechester,6.0,,2.93,Alto,0.0,0.0,1.0,No
+25.0,M,Evelynville,4.99,67.0,0.0,Alto,,,0.0,No
+25.0,F,Brandonshire,4.4,90.0,3.2,Alto,0.0,0.0,0.0,No
+18.0,F,Paynefort,3.94,58.0,3.88,Bajo,0.0,1.0,0.0,No
+18.0,F,West Mark,4.86,82.0,3.4,Medio,,0.0,0.0,Sí
+22.0,M,Thomasfort,,61.0,3.89,Alto,0.0,1.0,0.0,Sí
+19.0,F,South Michael,3.74,76.0,3.96,,1.0,0.0,,No
+21.0,F,North Danielmouth,3.3,98.0,,Medio,1.0,1.0,0.0,No
+18.0,M,Josephside,3.74,79.0,3.28,Medio,1.0,0.0,0.0,No
+20.0,F,Port Cynthia,4.46,69.0,2.67,Medio,1.0,1.0,1.0,No
+19.0,F,Gatesberg,3.29,95.0,3.17,Medio,0.0,0.0,0.0,No
+22.0,M,Lanestad,3.98,75.0,4.05,Alto,1.0,0.0,1.0,No
+22.0,F,Floresview,3.68,74.0,4.36,Alto,0.0,0.0,0.0,No
+17.0,F,Lake Carmen,3.83,74.0,2.16,Medio,1.0,1.0,1.0,Sí
+23.0,M,West Keith,4.49,65.0,4.74,Medio,0.0,1.0,1.0,No
+,M,Davisland,4.03,81.0,2.59,Bajo,0.0,0.0,0.0,Sí
+21.0,F,Muellerland,4.45,96.0,3.64,Bajo,1.0,0.0,0.0,No
+21.0,F,Smithside,4.8,65.0,4.44,Bajo,0.0,0.0,1.0,No
+17.0,,West Troy,4.26,,4.96,Alto,1.0,1.0,0.0,No
+22.0,F,Berryfurt,4.65,58.0,,Alto,0.0,1.0,1.0,Sí
+22.0,F,West Denise,4.97,53.0,3.19,Bajo,1.0,0.0,0.0,Sí
+23.0,M,South Anne,4.97,63.0,3.2,Alto,0.0,0.0,1.0,No
+19.0,F,Courtneyview,3.95,72.0,0.0,Medio,1.0,1.0,,No
+20.0,M,Lake Julie,3.88,55.0,3.72,Alto,0.0,1.0,1.0,No
+25.0,F,New Audrey,4.95,55.0,4.78,Alto,1.0,0.0,0.0,No
+18.0,F,Lake Brianport,3.34,75.0,2.61,,1.0,0.0,0.0,No
+18.0,F,Ericland,3.62,88.0,2.5,Medio,0.0,0.0,1.0,Sí
+,M,West Michaelborough,3.7,84.0,3.02,Bajo,0.0,1.0,0.0,Sí
+24.0,F,Scottshire,3.81,64.0,,Alto,1.0,1.0,0.0,No
+21.0,M,Tiffanyton,3.73,55.0,3.05,Bajo,1.0,0.0,0.0,No
+17.0,F,New John,4.23,58.0,3.39,Medio,1.0,0.0,1.0,No
+22.0,M,Bryantmouth,3.9,71.0,3.71,Medio,0.0,1.0,1.0,No
+23.0,F,New Michael,,73.0,2.21,Medio,1.0,0.0,1.0,Sí
+20.0,F,Julieport,4.96,87.0,3.55,,0.0,1.0,0.0,No
+24.0,F,West Robertchester,3.64,52.0,2.48,Bajo,1.0,1.0,0.0,No
+21.0,F,North Kristen,4.5,76.0,3.84,Alto,0.0,0.0,1.0,No
+18.0,M,Port Michael,3.88,81.0,3.94,Alto,1.0,,1.0,Sí
+19.0,M,Christopherfurt,3.74,69.0,2.95,Bajo,1.0,1.0,0.0,No
+23.0,F,South Austin,3.01,71.0,4.42,Bajo,0.0,1.0,1.0,No
+22.0,F,South Whitney,3.14,,,Bajo,1.0,1.0,0.0,Sí
+20.0,F,Stevenchester,3.42,76.0,2.48,Medio,0.0,0.0,1.0,No
+25.0,F,Vaughnchester,4.66,79.0,2.18,Alto,0.0,0.0,0.0,No
+25.0,M,Smithshire,4.55,80.0,4.96,Bajo,0.0,0.0,1.0,Sí
+22.0,,East James,4.52,52.0,3.37,Alto,0.0,0.0,1.0,No
+24.0,M,South Natasha,3.9,66.0,4.74,Bajo,1.0,1.0,1.0,Sí
+25.0,F,South Travisfort,3.84,62.0,4.7,Alto,0.0,1.0,1.0,No
+20.0,M,Port Josephmouth,,80.0,2.4,,0.0,0.0,0.0,No
+25.0,F,Yangfurt,3.36,78.0,3.8,Alto,1.0,1.0,1.0,No
+24.0,F,West Michaelport,3.25,52.0,3.73,Medio,1.0,0.0,,No
+22.0,M,Powellhaven,4.7,60.0,3.36,Bajo,1.0,0.0,1.0,Sí
+25.0,M,New Laura,4.95,77.0,3.08,Alto,0.0,1.0,0.0,No
+25.0,M,Cherylshire,4.33,70.0,2.47,Alto,0.0,0.0,0.0,No
+23.0,F,Hurleyfurt,4.67,91.0,2.32,Bajo,1.0,0.0,1.0,No
+23.0,F,Stewartmouth,4.34,79.0,4.38,Medio,0.0,0.0,0.0,No
+25.0,M,Williamside,3.46,73.0,3.29,Bajo,0.0,1.0,1.0,No
+,F,Langburgh,4.46,85.0,4.81,Medio,1.0,0.0,1.0,No
+20.0,F,Petersonstad,4.22,81.0,2.45,,0.0,1.0,1.0,No
+20.0,M,Port Colleenberg,4.7,82.0,3.58,Medio,0.0,1.0,0.0,No
+21.0,M,Lake Paula,3.89,51.0,4.13,Alto,0.0,1.0,0.0,Sí
+21.0,M,New Melissaville,4.89,93.0,2.88,Medio,,1.0,0.0,No
+24.0,M,West Vanessamouth,3.26,69.0,4.03,Alto,1.0,1.0,0.0,No
+22.0,M,Wardmouth,,99.0,3.48,Medio,1.0,0.0,1.0,No
+17.0,F,South Amberstad,4.26,68.0,4.6,Alto,0.0,1.0,0.0,No
+20.0,F,Dalebury,3.11,64.0,3.03,Bajo,1.0,1.0,0.0,No
+20.0,F,Smithborough,4.66,71.0,3.81,Medio,0.0,0.0,0.0,No
+22.0,,Kathleenfort,4.24,73.0,2.16,Medio,1.0,1.0,0.0,Sí
+19.0,F,Spearsmouth,4.28,79.0,,Medio,0.0,0.0,,Sí
+21.0,F,Desireeshire,4.4,78.0,4.4,Alto,1.0,1.0,0.0,No
+25.0,M,New Jordan,3.8,94.0,2.47,Medio,0.0,0.0,0.0,No
+24.0,F,West Stanley,3.31,91.0,3.6,,0.0,0.0,1.0,No
+25.0,F,New Seanchester,4.13,80.0,3.68,Medio,0.0,1.0,0.0,No
+22.0,F,Dennisville,4.0,77.0,3.4,Bajo,1.0,,1.0,Sí
+17.0,M,Lake Austinton,4.12,85.0,4.52,Bajo,1.0,,0.0,No
+19.0,F,Port Kayla,,68.0,2.17,Alto,0.0,0.0,0.0,No
+18.0,M,Savannahmouth,3.09,52.0,3.7,,1.0,0.0,0.0,No
+23.0,M,Stephanieborough,3.13,75.0,4.45,Alto,1.0,,1.0,No
+25.0,F,Port Josephmouth,3.98,65.0,4.4,Medio,0.0,1.0,1.0,No
+22.0,M,Lake Jason,4.78,59.0,4.25,Alto,0.0,1.0,,Sí
+22.0,F,East Josephfurt,3.21,76.0,3.71,Medio,1.0,0.0,1.0,No
+20.0,F,Sheltonton,3.79,82.0,4.86,Bajo,1.0,1.0,,No
+24.0,M,Timothyton,4.71,76.0,3.35,,0.0,0.0,1.0,No
+25.0,F,South Robertmouth,3.76,90.0,2.15,Bajo,,1.0,1.0,No
+24.0,M,Bradleyfurt,4.43,66.0,4.45,Alto,0.0,1.0,0.0,No
+21.0,M,East George,3.54,96.0,3.96,Medio,1.0,1.0,0.0,Sí
+23.0,F,Harveytown,3.72,54.0,3.48,,0.0,0.0,1.0,No
+22.0,M,New Normaburgh,4.51,58.0,2.19,Alto,1.0,,0.0,Sí
+22.0,M,Fitzpatrickberg,3.51,59.0,2.9,Medio,1.0,1.0,1.0,No
+17.0,F,Sonyaport,4.01,71.0,3.33,Bajo,1.0,0.0,0.0,No
+19.0,M,Perezmouth,3.86,73.0,3.11,Medio,0.0,0.0,1.0,No
+17.0,F,Lake Timothy,4.63,75.0,4.87,,0.0,0.0,1.0,Sí
+22.0,M,Mcclainside,3.24,64.0,2.39,Medio,1.0,0.0,1.0,No
+22.0,M,,3.83,83.0,4.48,Alto,1.0,0.0,,Sí
+22.0,M,Port Brandon,,94.0,3.57,Bajo,1.0,0.0,0.0,No
+20.0,M,Webstermouth,3.56,74.0,3.77,Medio,1.0,0.0,1.0,No
+24.0,M,Fryeview,3.7,83.0,4.52,Bajo,0.0,0.0,1.0,No
+21.0,F,North Maria,4.13,,3.09,Medio,,0.0,0.0,No
+24.0,M,Port Jonathantown,4.1,69.0,3.44,Medio,0.0,,1.0,Sí
+22.0,M,Marissaland,4.7,76.0,4.02,Alto,,1.0,0.0,No
+25.0,F,Nancyton,4.44,86.0,4.92,Alto,0.0,1.0,1.0,No
+25.0,M,Valdezton,3.68,,4.12,Alto,1.0,0.0,0.0,No
+22.0,F,Pottermouth,4.06,,3.22,Bajo,,1.0,0.0,No
+20.0,M,New Kristy,3.7,54.0,2.73,Alto,1.0,1.0,0.0,Sí
+19.0,F,Lewisview,4.6,77.0,3.97,Bajo,1.0,,1.0,No
+18.0,F,North Jennifer,4.98,96.0,4.79,Alto,0.0,0.0,0.0,No
+19.0,M,,4.44,53.0,2.61,Bajo,0.0,0.0,0.0,No
+,M,South Christinatown,3.22,58.0,2.44,Bajo,0.0,1.0,1.0,No
+22.0,M,Craigland,3.37,82.0,3.76,,0.0,1.0,1.0,No
+17.0,M,,3.42,89.0,4.16,Bajo,1.0,,0.0,No
+23.0,F,Caitlinton,4.75,89.0,,Bajo,0.0,1.0,1.0,No
+20.0,F,Chavezburgh,4.69,68.0,2.45,Bajo,0.0,0.0,0.0,No
+18.0,M,Alexanderside,3.84,97.0,4.42,Alto,1.0,0.0,1.0,Sí
+17.0,F,Garnershire,4.46,77.0,2.25,Alto,0.0,0.0,0.0,Sí
+,M,Ayalachester,4.75,98.0,3.57,Bajo,1.0,1.0,0.0,No
+24.0,,West Rickyfort,4.03,70.0,2.92,Medio,1.0,1.0,0.0,No
+17.0,M,Edwardchester,4.35,50.0,2.21,Medio,1.0,1.0,0.0,No
+23.0,F,Jesusville,4.92,81.0,4.17,Alto,0.0,0.0,1.0,No
+23.0,M,Marcusshire,,,4.66,Medio,1.0,1.0,1.0,No
+,,Laurieshire,4.53,82.0,0.0,Bajo,0.0,0.0,1.0,No
+24.0,F,Brittanyview,3.92,94.0,2.44,Bajo,1.0,0.0,0.0,Sí
+25.0,F,North Lindsey,3.45,67.0,,Bajo,,0.0,0.0,No
+20.0,M,Martinezland,4.67,78.0,2.81,Alto,0.0,0.0,0.0,No
+25.0,M,Nathanielville,3.8,72.0,,Alto,1.0,1.0,1.0,No
+20.0,F,North Mauriceberg,4.96,55.0,2.59,Medio,1.0,1.0,0.0,Sí
+20.0,M,Harrisville,3.61,63.0,4.23,Bajo,0.0,0.0,0.0,No
+19.0,F,Richardfurt,4.59,95.0,0.0,Bajo,1.0,1.0,1.0,Sí
+17.0,,North Jaimefurt,3.78,,2.73,Alto,0.0,1.0,1.0,Sí
+17.0,F,Port Nicole,3.7,63.0,4.86,Alto,,1.0,1.0,No
+20.0,F,Garciashire,4.64,58.0,2.03,Alto,1.0,0.0,0.0,No
+20.0,M,Cummingsburgh,4.16,60.0,2.21,Medio,1.0,1.0,0.0,No
+,M,Port Renee,3.72,83.0,2.76,Medio,0.0,1.0,1.0,No
+24.0,,North Daniel,4.68,72.0,3.61,Medio,0.0,0.0,0.0,No
+18.0,M,Woodsbury,4.92,50.0,2.51,Bajo,0.0,0.0,1.0,Sí
+20.0,M,New Tinaport,3.64,74.0,,Bajo,0.0,1.0,0.0,No
+18.0,F,,3.48,51.0,0.0,Bajo,1.0,1.0,1.0,No
+17.0,M,Melaniemouth,4.43,64.0,2.81,Bajo,0.0,1.0,,No
+18.0,M,East Gloriamouth,6.0,84.0,3.32,Alto,1.0,1.0,0.0,Sí
+22.0,M,Jamesside,3.42,67.0,2.15,Alto,0.0,1.0,1.0,No
+25.0,M,Thompsonborough,,57.0,4.3,Medio,0.0,0.0,0.0,No
+18.0,F,West Meganland,4.85,80.0,3.37,Medio,1.0,,0.0,No
+18.0,M,Katherineland,3.34,62.0,3.72,Alto,1.0,,0.0,No
+23.0,F,North Samanthaberg,3.12,96.0,4.8,Alto,1.0,1.0,1.0,No
+18.0,F,West Karenmouth,3.68,,3.47,Alto,1.0,1.0,1.0,No
+18.0,F,South Brandonland,4.15,94.0,4.5,Bajo,0.0,1.0,1.0,No
+22.0,M,Port Matthew,6.0,71.0,3.93,Alto,1.0,1.0,1.0,Sí
+,M,New Michael,3.99,73.0,4.91,Medio,0.0,1.0,0.0,Sí
+20.0,F,Lake Gerald,4.33,,2.6,Alto,0.0,0.0,1.0,Sí
+18.0,F,Livingstontown,3.54,78.0,3.08,Bajo,0.0,0.0,1.0,No
+23.0,M,Rodneyview,3.27,64.0,3.06,Medio,,0.0,0.0,No
+22.0,F,Jenniferstad,4.55,59.0,3.2,,0.0,1.0,1.0,No
+24.0,M,East Samantha,4.09,73.0,4.23,Medio,0.0,1.0,1.0,No
+22.0,F,Stevensonville,4.78,55.0,4.85,Alto,0.0,1.0,0.0,Sí
+20.0,F,South Michael,4.92,66.0,3.27,Medio,0.0,1.0,1.0,No
+21.0,F,,3.61,87.0,3.34,Alto,1.0,1.0,1.0,No
+24.0,M,Pittschester,4.76,91.0,4.96,Bajo,1.0,0.0,0.0,Sí
+25.0,M,North Carrieview,3.02,69.0,4.02,Bajo,1.0,0.0,0.0,No
+22.0,M,South Elizabethhaven,3.27,59.0,4.07,Medio,1.0,0.0,0.0,No
+24.0,M,North Stephanieport,4.33,85.0,3.07,Alto,1.0,,0.0,Sí
+20.0,M,Lake Donaldfurt,4.91,55.0,4.61,Bajo,0.0,0.0,0.0,No
+22.0,F,Garnerfurt,3.96,87.0,2.36,Medio,0.0,0.0,1.0,No
+23.0,,Fernandoview,4.88,91.0,2.8,Bajo,1.0,0.0,1.0,No
+20.0,M,Nicholsville,3.63,95.0,4.07,Medio,1.0,1.0,0.0,No
+21.0,F,Lake Zacharymouth,4.67,60.0,2.97,Alto,0.0,1.0,1.0,No
+24.0,F,Brennanberg,3.51,88.0,4.77,Bajo,0.0,0.0,0.0,Sí
+19.0,M,,3.3,95.0,3.59,Bajo,1.0,0.0,1.0,No
+19.0,,Rachelfort,3.55,82.0,3.48,Medio,1.0,0.0,0.0,No
+20.0,F,Davidland,4.47,86.0,2.08,Bajo,0.0,1.0,1.0,No
+18.0,F,Nelsonhaven,4.25,78.0,2.09,Bajo,1.0,1.0,1.0,No
+23.0,F,Brandonhaven,4.19,52.0,3.82,Alto,0.0,1.0,0.0,No
+24.0,M,Wendyville,3.77,75.0,2.84,Bajo,0.0,0.0,0.0,No
+25.0,F,Hernandezland,4.35,61.0,0.0,Medio,1.0,0.0,1.0,Sí
+20.0,F,Stevenland,3.22,73.0,3.21,Bajo,,1.0,0.0,No
+24.0,F,Carrollville,4.08,58.0,3.67,Medio,0.0,1.0,1.0,Sí
+17.0,F,West Mary,4.78,90.0,4.74,,0.0,0.0,0.0,No
+22.0,F,New Stephanie,,92.0,4.19,Bajo,0.0,1.0,1.0,No
+25.0,F,Michaelastad,4.53,82.0,2.64,,1.0,0.0,,No
+23.0,,Port Janeberg,4.09,88.0,3.59,Bajo,1.0,1.0,0.0,No
+22.0,F,East Gregory,4.54,95.0,3.89,Alto,0.0,1.0,1.0,No
+23.0,F,Port Cassandra,4.4,75.0,2.05,,0.0,1.0,1.0,No
+21.0,F,Hamiltonton,4.92,63.0,3.9,Bajo,1.0,0.0,0.0,No
+17.0,F,Kaylaborough,3.67,51.0,4.35,Medio,0.0,0.0,0.0,No
+17.0,M,Pamelafort,4.38,65.0,3.03,Bajo,0.0,1.0,1.0,No
+23.0,M,Rebeccamouth,3.1,,2.53,Medio,0.0,0.0,1.0,Sí
+21.0,F,Lake Clifford,6.0,95.0,2.86,Alto,,0.0,1.0,No
