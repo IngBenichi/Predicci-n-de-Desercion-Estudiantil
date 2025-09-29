@@ -59,6 +59,7 @@ Contiene datos **demográficos, académicos y financieros**, junto con la variab
 El dataset fue generado usando Python con las librerías `pandas`, `numpy` y `faker`.
 El código completo se encuentra en el archivo `dataset_sintetico_dropout.py`.
 
+![Vista del dataset](imagen_dataset.png)
 ---
 
 ## **Licencia**
